@@ -4,7 +4,6 @@ class CCircle {
 
 	void show_periphery() {
 		System.out.println("periphery=" + 2 * pi * this.radius);
-		// this 是物件cirl1 因為不能cirl.show...() 無法直接拿到類別來
 	}
 }
 
