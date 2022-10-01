@@ -1,0 +1,7 @@
+(a) set("hello");
+(b)set(50);
+(c)set(10,25);
+(d)set(3.14);
+
+ans
+b 引述int
