@@ -1,6 +1,0 @@
-void setCircle(double radius);
-int setCircle(double radius
-是否正確?為什麼?
-
-ans
-正確  用一個函數多個引述再根據引數的資料型態不同來設計不同功能。
